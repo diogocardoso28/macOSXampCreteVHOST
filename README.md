@@ -17,7 +17,7 @@ so either change the script or obey to that path.
 
 run it with:
 
-   sudo ./macOSxampCreteVHOST.sh
+    sudo ./macOSxampCreteVHOST.sh
     
 the script will ask for your folder name, input it, then safari should open and give permission error (dont close the page). Restart XAMPP and refresh safari.
 
